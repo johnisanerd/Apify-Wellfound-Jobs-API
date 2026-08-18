@@ -175,6 +175,12 @@ Save a task with your search, then attach a [schedule](https://docs.apify.com/pl
 
 **Is Wellfound free for job seekers?** Yes. This API reads the same public pages a visitor sees and returns them as structured data.
 
+## 🪢 Use this from n8n
+
+This API is available as an n8n community node, **[n8n-nodes-wellfound-jobs-api](https://www.npmjs.com/package/n8n-nodes-wellfound-jobs-api)**. In n8n: **Settings, Community Nodes, Install**, enter `n8n-nodes-wellfound-jobs-api`, accept the risk prompt and restart. The **Wellfound Jobs** node then appears in the node picker, and it works as an AI Agent tool.
+
+---
+
 ## Install in Claude Cowork Desktop
 
 ![Install in Claude Cowork Desktop](https://raw.githubusercontent.com/johnisanerd/ApifyPublicData/main/assets/guides/install_mcp_into_claude_desktop.png)
