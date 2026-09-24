@@ -161,6 +161,17 @@ With `fetchJobDetails` enabled, rows also carry `benefits`, `industry`, `company
 
 Save a task with your search, then attach a [schedule](https://docs.apify.com/platform/schedules) to build a history of new postings. Useful cron strings: `0 7 * * *` for daily at 7 AM, `0 6 * * 1` for Mondays.
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Wellfound Jobs API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=How%20do%20I%20use%20the%20Wellfound%20Jobs%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/wellfound-jobs-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🧠 [Claude](https://claude.ai/new?q=How%20do%20I%20use%20the%20Wellfound%20Jobs%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/wellfound-jobs-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=How%20do%20I%20use%20the%20Wellfound%20Jobs%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/wellfound-jobs-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=How%20do%20I%20use%20the%20Wellfound%20Jobs%20API%20by%20johnvc%20on%20Apify%20%28https://apify.com/johnvc/wellfound-jobs-api?fpr=9n7kx3%29?%20Show%20me%20input%20examples%2C%20output%20fields%2C%20common%20use%20cases%2C%20and%20how%20to%20integrate%20it%20into%20a%20workflow.)
+<!-- ask-ai:end -->
+
 ## People also search for
 
 **How do I get startup jobs data as an API?** Run this Actor from Python, the Apify API, or any MCP client. It returns JSON, CSV, or Excel.
