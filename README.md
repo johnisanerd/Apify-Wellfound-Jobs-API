@@ -329,4 +329,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 *Use the Wellfound Jobs API to power your recruiting, market research, and lead generation workflows with reliable, structured results.*
 
 
-Last Updated: 2026.09.22
+Last Updated: 2026.09.25
